@@ -1,0 +1,153 @@
+<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="390" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#06141C"/>
+    <stop offset="0.45" stop-color="#101C3A"/>
+    <stop offset="0.72" stop-color="#211A42"/>
+    <stop offset="1" stop-color="#080A12"/>
+  </linearGradient>
+
+  <radialGradient id="cyanGlow" cx="0" cy="0" r="1"
+    gradientUnits="userSpaceOnUse"
+    gradientTransform="translate(250 270) rotate(-20) scale(360 220)">
+    <stop stop-color="#00D9FF" stop-opacity="0.30"/>
+    <stop offset="1" stop-color="#00D9FF" stop-opacity="0"/>
+  </radialGradient>
+
+  <radialGradient id="purpleGlow" cx="0" cy="0" r="1"
+    gradientUnits="userSpaceOnUse"
+    gradientTransform="translate(850 100) rotate(150) scale(400 250)">
+    <stop stop-color="#9B5CFF" stop-opacity="0.28"/>
+    <stop offset="1" stop-color="#9B5CFF" stop-opacity="0"/>
+  </radialGradient>
+
+  <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0">
+    <stop stop-color="#00D9FF" stop-opacity="0"/>
+    <stop offset="0.5" stop-color="#00D9FF" stop-opacity="0.65"/>
+    <stop offset="1" stop-color="#9B5CFF" stop-opacity="0"/>
+  </linearGradient>
+
+  <filter id="blur">
+    <feGaussianBlur stdDeviation="18"/>
+  </filter>
+
+</defs>
+
+<!-- Main background -->
+<rect x="4" y="4" width="1192" height="382" rx="28"
+      fill="url(#bg)"
+      stroke="#263247"
+      stroke-width="2"/>
+
+<!-- Glows -->
+<rect x="5" y="5" width="1190" height="380" rx="27"
+      fill="url(#cyanGlow)"/>
+
+<rect x="5" y="5" width="1190" height="380" rx="27"
+      fill="url(#purpleGlow)"/>
+
+<!-- Ambient light -->
+<ellipse cx="600" cy="190" rx="430" ry="18"
+         fill="#00D9FF"
+         opacity="0.12"
+         filter="url(#blur)"/>
+
+<rect x="120" y="182" width="960" height="2"
+      fill="url(#line)"
+      opacity="0.8"/>
+
+<!-- Role -->
+<text x="600" y="100"
+      text-anchor="middle"
+      fill="#00D9FF"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="17"
+      font-weight="600"
+      letter-spacing="9">
+  SOFTWARE DEVELOPER
+</text>
+
+<!-- Name -->
+<text x="600" y="175"
+      text-anchor="middle"
+      fill="#FFFFFF"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="58"
+      font-weight="700">
+  Ketan Arora
+</text>
+
+<!-- Tagline -->
+<text x="600" y="220"
+      text-anchor="middle"
+      fill="#94A3B8"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="20"
+      letter-spacing="1">
+  &gt; Full Stack · AI · Building Real Products _
+</text>
+
+<!-- Pills -->
+
+<rect x="145" y="270" width="220" height="40" rx="20"
+      fill="#071C29"
+      stroke="#00BFEF"
+      stroke-opacity="0.45"/>
+
+<text x="255" y="296"
+      text-anchor="middle"
+      fill="#00D9FF"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="14"
+      font-weight="600">
+  Full Stack Development
+</text>
+
+
+<rect x="385" y="270" width="180" height="40" rx="20"
+      fill="#0C1930"
+      stroke="#7187FF"
+      stroke-opacity="0.45"/>
+
+<text x="475" y="296"
+      text-anchor="middle"
+      fill="#8FA4FF"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="14"
+      font-weight="600">
+  AI Systems
+</text>
+
+
+<rect x="585" y="270" width="200" height="40" rx="20"
+      fill="#15102C"
+      stroke="#A66CFF"
+      stroke-opacity="0.45"/>
+
+<text x="685" y="296"
+      text-anchor="middle"
+      fill="#B98CFF"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="14"
+      font-weight="600">
+  Backend Engineering
+</text>
+
+
+<rect x="805" y="270" width="190" height="40" rx="20"
+      fill="#071C29"
+      stroke="#00BFEF"
+      stroke-opacity="0.45"/>
+
+<text x="900" y="296"
+      text-anchor="middle"
+      fill="#00D9FF"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="14"
+      font-weight="600">
+  Problem Solving
+</text>
+
+</svg>
