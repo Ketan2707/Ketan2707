@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=1000&height=100&lines=%3E_%20KETAN%20ARORA;%3E_%20SOFTWARE%20DEVELOPER;%3E_%20FULL%20STACK%20%2B%20AI;%3E_%20BUILDING%20THE%20FUTURE%20ONE%20PROJECT%20AT%20A%20TIME%20%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=1000&height=100&lines=%3E_%20KETAN%20KARAN%20ARORA;%3E_%20SOFTWARE%20DEVELOPER;%3E_%20FULL%20STACK%20%2B%20AI;%3E_%20BUILDING%20THE%20FUTURE%20ONE%20PROJECT%20AT%20A%20TIME%20%F0%9F%9A%80" />
 
 <br>
 
