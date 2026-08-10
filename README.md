@@ -19,3 +19,6 @@
 <br><br>
 
 </div>
+<div align="center">
+  <img src="./assets/profile-banner.gif" width="100%">
+</div>
