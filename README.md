@@ -40,6 +40,8 @@
 
 <br>
 
+<div align="center">
+
 ### 🐍 `CONTRIBUTION SNAKE`
 
 <picture>
@@ -56,7 +58,5 @@
     alt="GitHub Contribution Snake"
     width="100%">
 </picture>
-
-<br><br>
 
 </div>
