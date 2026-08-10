@@ -42,21 +42,13 @@
 
 <div align="center">
 
+<div align="center">
+
 ### 🐍 `CONTRIBUTION SNAKE`
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Ketan2707/Ketan2707/output/github-snake-dark.svg">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Ketan2707/Ketan2707/output/github-snake.svg">
-
-  <img
-    src="https://raw.githubusercontent.com/Ketan2707/Ketan2707/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%">
-</picture>
+<img
+  src="https://raw.githubusercontent.com/Ketan2707/Ketan2707/output/github-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+  width="100%">
 
 </div>
