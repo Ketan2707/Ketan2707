@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="44" viewBox="0 0 140 44">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3178FF"/><stop offset=".5" stop-color="#00D9FF"/><stop offset="1" stop-color="#1590FF"/></linearGradient></defs>
+<rect x="1" y="1" width="138" height="42" rx="21" fill="#080B13" stroke="url(#b)" stroke-width="2"/>
+<rect x="29" y="12" width="20" height="20" rx="2" fill="#E8EEF8"/><text x="31.2" y="28.5" fill="#080B13" font-family="Arial,sans-serif" font-size="14" font-weight="700">in</text>
+<text x="56" y="27.5" fill="#E9EDF5" font-family="Arial,sans-serif" font-size="15" font-weight="600">LinkedIn</text></svg>
