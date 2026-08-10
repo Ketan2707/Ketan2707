@@ -17,6 +17,7 @@
 <br><br>
 
 <!-- ==================== SYSTEM STATUS ==================== -->
+<div align="center">
 
 ### ⚡ `SYSTEM STATUS`
 
