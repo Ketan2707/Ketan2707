@@ -105,3 +105,31 @@
   width="100%">
 
 </div>
+
+<div align="center">
+
+<h2>🌐 Connect With Me</h2>
+
+<a href="https://github.com/Ketan2707">
+  <img src="./assets/github-button.svg" width="150" alt="GitHub">
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/ketan-karan-arora-5a729b28b/">
+  <img src="./assets/linkedin-button.svg" width="150" alt="LinkedIn">
+</a>
+
+&nbsp;
+
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="./assets/portfolio-button.svg" width="150" alt="Portfolio">
+</a>
+
+&nbsp;
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="./assets/email-button.svg" width="150" alt="Email">
+</a>
+
+</div>
