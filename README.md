@@ -40,6 +40,62 @@
 
 <div align="center">
 
+<!-- ------------------------------------------------------------------ -->
+
+<div align="center">
+
+<h2>⚡ Tech Stack</h2>
+
+<!-- Languages -->
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+</p>
+
+<!-- Frontend -->
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite,tailwind" />
+</p>
+
+<!-- Backend -->
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" />
+</p>
+
+<!-- Databases -->
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,sqlite" />
+</p>
+
+<!-- Tools -->
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel" />
+</p>
+
+<br>
+
+<!-- Frameworks & Technologies -->
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+
+<br>
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+<br>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+
+</div>
+
 ### 🐍 `CONTRIBUTION SNAKE`
 
 <img
