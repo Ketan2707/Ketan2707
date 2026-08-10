@@ -12,7 +12,7 @@
 
 <!-- ==================== ANIMATED GIF BANNER ==================== -->
 
-<img src="./assets/profile-banner.gif" width="100%">
+<img src="./assets/profile-bannerr.gif" width="100%">
 
 <br><br>
 
